@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced hexagonal puzzle game inspired by Tetris.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "The ultimate speed run game that will put your skills to the test.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://slopegame.io/"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "The classic bird-dodging game that took the world by storm.",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "iframeUrl": "https://flappybird.io/"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you bake an absurd amount of cookies.",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out in this endless hopper.",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "iframeUrl": "https://www.crossyroad.com/"
+  },
+  {
+    "id": "snake",
+    "title": "Classic Snake",
+    "description": "The timeless game of growing your snake without hitting the walls.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world-famous puzzle game that everyone knows and loves.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris"
+  }
+]
